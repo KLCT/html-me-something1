@@ -14,6 +14,7 @@ body {
     position: relative;
     flood-color: violet;
     flood-opacity: 70%;
+    background-image: url(images/fourth.jpg)
 }
 
 .list {
