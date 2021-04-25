@@ -1,0 +1,23 @@
+body {
+    margin: 60px;
+    padding: 70px;
+}
+
+.ps {
+    background-color: crimson;
+    border-style: dotted dashed;
+    text-transform: lowercase;
+    text-shadow: 6px 6px blue;
+}
+
+#p {
+    position: relative;
+    flood-color: violet;
+    flood-opacity: 70%;
+}
+
+.list {
+    text-align: center;
+    color: skyblue;
+    background-color: springgreen;
+}
